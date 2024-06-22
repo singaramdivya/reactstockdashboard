@@ -72,8 +72,8 @@ const LineChart = ({ data }) => {
       }
     ]
   };
-
-  // Render the Line chart component with the prepared data
+  
+  
   return <Line data={chartData} />;
 };
 
