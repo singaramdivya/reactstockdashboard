@@ -1,0 +1,48 @@
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #282c34;
+    color: white;
+}
+.data-selector {
+    margin-bottom: 20px;
+    margin-top:30px;
+    margin-left: 20px;
+  }
+  
+  .data-selector label {
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  .data-selector select {
+    padding: 8px;
+    font-size: 16px;
+  }
+.line-chart {
+    margin-bottom: 20px;
+  }
+  
+  .line-chart canvas {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .btn-container{
+    position: absolute;
+    right:2%;
+  }
+  .button-container {
+    margin: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color:transparent;
+    color: #f7f3f3;
+    border: none;
+    cursor: pointer;
+  }
+  
